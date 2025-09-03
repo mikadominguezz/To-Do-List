@@ -2,7 +2,8 @@
 ## UCU - Desarrollo web y mobile (2025) - [html - css - js] 
  
 ### Objetivo del ejercicio: 
-Practicar: 
+Practicar:
+
 ●  Selección de elementos con querySelector / getElementById 
  
 ●  Lectura y escritura del contenido de elementos (textContent, innerHTML) 
